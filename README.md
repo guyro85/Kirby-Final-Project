@@ -1,5 +1,5 @@
 # Kirby-Final-Project
-A python multiplayer game that is based on the game Kirby Nightmare In Dreamland
+An assembly game that is based on the game Kirby Nightmare In Dreamland
 
 # About:
 This was the final project for my 10th grade in high scool.
