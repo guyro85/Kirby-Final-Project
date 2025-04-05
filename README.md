@@ -7,6 +7,6 @@ It features a player and a computer controlled character that the player has to 
 The proggraming language used is assembly.
 
 # files:
-The project presentation is on the _ file.
-The actual code is on the _ file.
+The project presentation is on the project presentation.docx file.
+The actual code is on the code.asm file.
 The rest are mostly pictures.
